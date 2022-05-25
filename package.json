@@ -1,0 +1,17 @@
+{
+  "name": "arrayobjects-to-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "html-pdf-node": "^1.0.8",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.5.24"
+  }
+}
